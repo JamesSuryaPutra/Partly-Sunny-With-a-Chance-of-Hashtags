@@ -25,6 +25,7 @@ If the winning team is not interested in creating/labeling a dataset, we will co
 
 # Evaluation
 The Root Mean Squared Error ("RMSE") is used to measure the accuracy:
+
 <img width="189" height="68" alt="rmse" src="https://github.com/user-attachments/assets/5a3b6fea-d6e9-4546-86a6-8599b441d571" />
 
 Where:
@@ -34,4 +35,5 @@ Where:
 
 # Submission Format
 For each tweet in the test set, predict the confidence score for each of the 24 possible labels.  Submission files should be in the following format and must have a header.
+
 <img width="446" height="86" alt="submission" src="https://github.com/user-attachments/assets/2983955f-e9e6-43be-abb1-b4fb5a16e5d9" />
